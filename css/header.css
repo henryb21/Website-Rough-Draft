@@ -10,8 +10,8 @@ nav {
     flex-direction: row;
     flex-wrap: wrap;
     align-content: center;
-    justify-content: space-between;
-    height: 100px;
+    justify-content: space-around;
+    height: 90px;
     border-style: solid;
     border-width: 0 0 1px 0;
     border-color: grey;
@@ -32,9 +32,10 @@ nav ul li {
     display: flex;
     flex-wrap: wrap;
     align-content: center;
+    letter-spacing: .08rem;
 }
 
 #logo {
     width: 80px;
-    margin-left: 30px;
+    /* margin-left: 30px; */
 }

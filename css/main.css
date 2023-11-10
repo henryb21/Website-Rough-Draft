@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     font-size: 14px;
+    font-family: 'Cabin', sans-serif;;
 }
 
 h1 {
@@ -28,10 +29,11 @@ h3 {
     width: 100%;
 }
 
-#hero {
+#christmas_hero {
     height: 300px;
-    background-color: rgb(113, 0, 0);
+    background-color: #BD0019;
     color: white;
+    letter-spacing: 0.09rem;
 }
 
 .d-flex {
