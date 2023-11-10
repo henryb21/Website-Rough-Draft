@@ -31,7 +31,7 @@ h3 {
 
 #christmas_hero {
     height: 300px;
-    background-color: #BD0019;
+    background-color: black;
     color: white;
     letter-spacing: 0.09rem;
 }
@@ -62,4 +62,12 @@ h3 {
 
  .w-25 {
     width: 25%
+ }
+
+ .underline {
+    display: block;
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    margin: 1em auto 0;
  }
