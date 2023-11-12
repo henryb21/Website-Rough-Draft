@@ -33,10 +33,6 @@ img {
     max-width: 100%
 }
 
-.max-width-1200 {
-    max-width: 1120px;
-}
-
 .module {
     padding: 2rem 0;
 }
@@ -67,6 +63,12 @@ img {
 .christmas_hero {
     background-color: black;
     color: white;
+    letter-spacing: 0.09rem;
+}
+
+.tent_hero {
+    background-color: rgb(211, 211, 211);
+    color: black;
     letter-spacing: 0.09rem;
 }
 
@@ -114,9 +116,9 @@ img {
  }
 
  .section_title {
-    margin: 1.2em 0 0.5em;
+    margin: 2em 0 0.5em;
     text-transform: uppercase;
-    letter-spacing: 0.05rem;
+    letter-spacing: 0.1rem;
  }
 
  .underline {
@@ -128,7 +130,7 @@ img {
  }
 
  .shop_row {
-    padding: 2em 100px 0;
+    padding: 4em 100px 4em;
  }
 
  .button {
