@@ -35,6 +35,7 @@ img {
 
 .module {
     padding: 2rem 0;
+    margin-top: 2em;
 }
 
 .module-head {
@@ -125,12 +126,14 @@ img {
     display: block;
     width: 120px;
     height: 3px;
-    background-color: black;
-    margin: 2em auto 0;
+    background-color: rgb(211, 211, 211);
+    margin: 2em auto 2em;
  }
 
  .shop_row {
-    padding: 4em 100px 4em;
+    padding: 0 100px 0;
+    margin-top: 2em;
+    margin-bottom: 4em;
  }
 
  .button {
