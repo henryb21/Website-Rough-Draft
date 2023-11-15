@@ -72,6 +72,14 @@ img {
     letter-spacing: 0.09rem;
 }
 
+.founder_hero {
+    background-image: url(../images/stock/ourfounder.png);
+    color: black;
+    background-size:cover;
+    letter-spacing: 0.09rem;
+    height: 200px;
+}
+
 .d-flex {
     display: flex;
     flex-wrap: wrap;
