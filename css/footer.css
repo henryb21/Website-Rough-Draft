@@ -1,5 +1,9 @@
 #footer{
-    margin-top: 0;
+    margin-top: 2em;
     height: 200px;
-    background-color: rgb(62, 62, 62);
+}
+
+#footer_contact {
+    border-bottom: 1px solid grey;
+    display: flex;
 }
