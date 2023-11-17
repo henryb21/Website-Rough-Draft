@@ -1,9 +1,31 @@
 #footer{
-    margin-top: 2em;
     height: 200px;
+    margin-top: 2em;
 }
 
 #footer_contact {
+    border-top: 1px solid grey;
     border-bottom: 1px solid grey;
     display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 20px 120px 20px;
+}
+
+#footer_contact ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#footer_contact ul li {
+    padding: 0 20px 0;
+    margin: 0;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    letter-spacing: .08rem;
 }
