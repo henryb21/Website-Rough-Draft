@@ -67,7 +67,8 @@ img {
 }
 
 .tent_hero {
-    background-color: rgb(211, 211, 211);
+    margin-top: 40px;
+    background-color: #f2f2f2;
     color: black;
     letter-spacing: 0.09rem;
 }
