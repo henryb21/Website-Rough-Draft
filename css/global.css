@@ -3,6 +3,10 @@
     flex-wrap: wrap;
 }
 
+.d-flexbox {
+    display: flexbox;
+}
+
 .justify-center {
     justify-content: center;
 }
