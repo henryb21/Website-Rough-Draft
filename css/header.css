@@ -40,3 +40,8 @@ a {
 #logo {
     width: 80px;
 }
+
+.active{
+    color: white;
+    background-color: black;
+}
